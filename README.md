@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/im_ashishreddy" target="blank"><img src="https://img.shields.io/twitter/follow/im_ashishreddy?logo=twitter&style=for-the-badge" alt="im_ashishreddy" /></a> </p>
 
-- 🔭 I’m currently working on Game Developing Platforms like Unity, Unreal Engine
+- 🔭 I’m currently working on Web Developing, gaming platforms, UI/UX Designing 
 
-- 💬 Ask me about **UI/UX, Graphics Designing, Unity, Blenders**
+- 💬 Ask me about **UI/UX, Graphics Designing, Unity, Blenders, Data Structures
 
 - 📫 How to reach me **ashishbhutkuri02@gmail.com**
 
