@@ -1,5 +1,5 @@
 <h1 align="center">Hey Everyone! 🌟 Ashish here, ready to sprinkle some excitement into your day! 🚀</h1>
-<h3 align="center">Transforming ideas into seamless experiences and elegant code. 🎨✨ Passionate about creating digital magic through design and innovative software solutions. Currently juggling pixels as a UI/UX designer, crafting delightful Android experiences, and diving deep into the world of software engineering</h3>
+<h3 align="center">Transforming ideas into seamless experiences and elegant code. 🎨✨ Passionate about creating digital magic through design and innovative software solutions. Currently juggling pixels as a Software Developer, crafting delightful Projects, and diving deep into the world of software engineering</h3>
 <img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.dribbble.com%2Fusers%2F2131993%2Fscreenshots%2F4948736%2Fthoughtworks-gif_dribbble.gif&f=1&nofb=1&ipt=c52e76d784924e89ff559436213afc261ddf308f50d6a0021c24c73117ea8ea7&ipo=images">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imashishreddy&label=Profile%20views&color=0e75b6&style=flat" alt="imashishreddy" /> </p>
